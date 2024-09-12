@@ -16,8 +16,9 @@ The world is the totality of entities, the whole of reality, or everything that 
 
 ## ⚙️ Features
 Main features are as follows:
-All Country Name.Flage.
-Other Data See.
+All Country Name, Flage and Other details.
+Other Data See. 
+Like And Save Your Favourite Country, Delete Liked Country.
 ## 📲 Screenshots
 
 
